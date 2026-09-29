@@ -1,0 +1,4 @@
+  # Privacy Policy
+  The "homelab-backup" app is used only by its owner to store encrypted backups
+  in the owner's own Google Drive. It collects no data from anyone else and
+  shares nothing with third parties.
